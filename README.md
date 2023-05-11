@@ -1,2 +1,2 @@
 # Resume
-resume.html
+index.html
